@@ -9,13 +9,13 @@
 class Calculator {
 
     /**
-     * @var $_result int 
+     * @var $_result integer test
      */ 
     private $_result;
     
     public function __construct()
     {
-        
+      
     }
     
     public function sum($a, $b)
@@ -44,7 +44,11 @@ class Calculator {
         return (int) $this->_result;
     }
     
-    
+    public function factory()
+    {
+      //Testing to git
+      //no se como funciona
+    }
     
 }
 
