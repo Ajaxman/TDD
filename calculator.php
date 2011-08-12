@@ -48,8 +48,13 @@ class Calculator {
     {
       //Testing to git En ambos?? 
       //no se como funciona Merged
-      //REsolve conflict
+
     }
+
+   static public function Addedfunction()
+   {
+     parent::commit(); //jaja =)
+   }
     
 }
 
