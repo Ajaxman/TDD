@@ -50,6 +50,11 @@ class Calculator {
       //no se como funciona Merged
 
     }
+
+   static public function Addedfunction()
+   {
+     parent::commit(); //jaja =)
+   }
     
 }
 
