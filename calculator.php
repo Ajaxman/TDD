@@ -2,10 +2,15 @@
 /**
  * Description of calculator
  *
- * @author Javier 
+ * @author Javier
+ * 
  */
+
 class Calculator {
-    
+
+    /**
+     * @var $_result int 
+     */ 
     private $_result;
     
     public function __construct()
