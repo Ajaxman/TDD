@@ -47,6 +47,7 @@ class Calculator {
     public function factory()
     {
       //Testing to git
+
     }
     
 }
