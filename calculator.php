@@ -15,7 +15,7 @@ class Calculator {
     
     public function __construct()
     {
-        
+      
     }
     
     public function sum($a, $b)
@@ -44,7 +44,10 @@ class Calculator {
         return (int) $this->_result;
     }
     
-    
+    public function factory()
+    {
+      //Testing to git
+    }
     
 }
 
