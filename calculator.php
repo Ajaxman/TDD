@@ -9,7 +9,7 @@
 class Calculator {
 
     /**
-     * @var $_result int 
+     * @var $_result integer test
      */ 
     private $_result;
     
