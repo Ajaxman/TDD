@@ -46,8 +46,9 @@ class Calculator {
     
     public function factory()
     {
-      //Testing to git
-
+      //Testing to git En ambos?? 
+      //no se como funciona Merged
+      //REsolve conflict
     }
     
 }
